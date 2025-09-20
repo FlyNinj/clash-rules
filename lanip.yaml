@@ -1,0 +1,4 @@
+payload:
+  - IP-CIDR,192.168.89.60/30,xt8,no-resolve
+  - IP-CIDR,192.168.89.64/30,xt8,no-resolve
+  - IP-CIDR,192.168.89.68/31,xt8,no-resolve
