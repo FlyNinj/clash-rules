@@ -2,4 +2,5 @@ payload:
   - DOMAIN-SUFFIX,truthsocial.com
   - DOMAIN-SUFFIX,onlyfans.com
   - DOMAIN-SUFFIX,pokemoncenter.com
-
+  - DOMAIN-SUFFIX,finance.yahoo.com
+  - DOMAIN-SUFFIX,sports.yahoo.com
