@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,finance.yahoo.com
   - DOMAIN-SUFFIX,sports.yahoo.com
   - DOMAIN-SUFFIX,bloomberg.com
+  - DOMAIN-SUFFIX,wsj.com
