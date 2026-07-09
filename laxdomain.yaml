@@ -6,3 +6,6 @@ payload:
   - DOMAIN-SUFFIX,sports.yahoo.com
   - DOMAIN-SUFFIX,bloomberg.com
   - DOMAIN-SUFFIX,wsj.com
+  - DOMAIN-SUFFIX,ml.com
+  - DOMAIN-SUFFIX,merrilledge.com
+  - DOMAIN-SUFFIX,mymerrill.com
