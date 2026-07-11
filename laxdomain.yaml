@@ -1,12 +1,11 @@
 payload:
-  - DOMAIN-SUFFIX,truthsocial.com
-  - DOMAIN-SUFFIX,onlyfans.com
-  - DOMAIN-SUFFIX,pokemoncenter.com
-  - DOMAIN-SUFFIX,finance.yahoo.com
-  - DOMAIN-SUFFIX,sports.yahoo.com
-  - DOMAIN-SUFFIX,bloomberg.com
-  - DOMAIN-SUFFIX,wsj.com
-  - DOMAIN-SUFFIX,ml.com
-  - DOMAIN-SUFFIX,merrilledge.com
-  - DOMAIN-SUFFIX,mymerrill.com
-  
+  - '+.truthsocial.com'
+  - '+.onlyfans.com'
+  - '+.pokemoncenter.com'
+  - '+.finance.yahoo.com'
+  - '+.sports.yahoo.com'
+  - '+.bloomberg.com'
+  - '+.wsj.com'
+  - '+.ml.com'
+  - '+.merrilledge.com'
+  - '+.mymerrill.com'
